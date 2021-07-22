@@ -12,3 +12,8 @@ We have used the following applications to develop this prototype:
 2.	Tinkercad
 3.	ThingSpeak
 4.	Twilio
+
+
+Link for face detection program: https://colab.research.google.com/drive/1jAWk2Qf3F9rWkfx1kxi2fupUNZEZQBoA?usp=sharing
+
+Link for Tinkercad: https://www.tinkercad.com/things/eQ6muabNRlX-door-unlocking-mechanism
